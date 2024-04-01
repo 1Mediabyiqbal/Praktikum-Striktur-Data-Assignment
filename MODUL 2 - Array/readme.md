@@ -2,7 +2,7 @@
 <p align="center">Muhammad Iqbal</p>
 
 ## Dasar Teori
-<p align="justify"> Array, atau larik, adalah struktur data yang digunakan untuk menyimpan sekumpulan data dengan tipe data yang sama. Bayangkan array seperti rak buku, di mana setiap rak menyimpan buku dengan jenis yang sama. Dalam pemrograman, array memungkinkan penggunanya untuk mengelompokkan data terkait dan mengaksesnya dengan mudah. Array berfungsi sebagai wadah untuk menyimpan kumpulan elemen data dengan tipe yang sama, yang diakses melalui indeks numerik yang berurutan [1]. Kemampuan array untuk menyimpan data dengan cara yang terstruktur dan terorganisir membuatnya menjadi fondasi dalam pengembangan perangkat lunak di berbagai domain, mulai dari pemrosesan data hingga grafika komputer. Array memiliki beberapa karakteristik penting, yaitu: 
+<p align="justify"> Array, atau larik, adalah struktur data yang digunakan untuk menyimpan sekumpulan data dengan tipe data yang sama. Bayangkan array seperti rak buku, di mana setiap rak menyimpan buku dengan jenis yang sama. Dalam pemrograman, array memungkinkan penggunanya untuk mengelompokkan data terkait dan mengaksesnya dengan mudah. Array berfungsi sebagai wadah untuk menyimpan kumpulan elemen data dengan tipe yang sama, yang diakses melalui indeks numerik yang berurutan [1s]. Kemampuan array untuk menyimpan data dengan cara yang terstruktur dan terorganisir membuatnya menjadi fondasi dalam pengembangan perangkat lunak di berbagai domain, mulai dari pemrosesan data hingga grafika komputer. Array memiliki beberapa karakteristik penting, yaitu: 
 
 1. Tipe Data
 
