@@ -1,5 +1,5 @@
  <h1 align="center">Laporan Praktikum Modul Priority Queue dan Heaps</h1>
-<p align="center">Muhammad Iqbal (NIM : 2311110014)</p>
+<p align="center">Muhammad Iqbal (NIM : 2311110013)</p>
 
 ## Dasar Teori
 ### Priority Queue
