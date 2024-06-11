@@ -44,7 +44,6 @@ public:
         }
     }
 
-    // Destructor untuk membersihkan memory
     ~SingleLinkedList() {
         while (head != nullptr) {
             deleteFirst();
